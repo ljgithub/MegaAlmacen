@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lechuga.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable\\lechuga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_check_buttonless_on.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable\\btn_check_buttonless_on.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_comercios.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\activity_comercios.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_confirmacion.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\dialog_confirmacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_modificar_producto.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\activity_modificar_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background2.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_naranjas.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable\\naranjas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background5.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\background5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_patatas.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable\\patatas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_ayuda.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\dialog_ayuda.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_get_info.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\get_info.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_comercios_layout.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\list_comercios_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\raw_itemcompra.java.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\raw\\itemcompra.java"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_acerca_de.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\dialog_acerca_de.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_insertar_producto.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\activity_insertar_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uja.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\uja.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_undoicona.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\undoicona.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background4.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\background4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comercio_icon.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\comercio_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_productos.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\activity_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background3.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\background3.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background7.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\background7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_caja.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\caja.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_acerca_de2.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\menu\\activity_acerca_de2.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_create_contact.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\create_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plus1.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\plus1.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_layout.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_input_add.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable\\ic_input_add.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_warning.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logobox.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\logobox.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\raw_itemcompraadapter.java.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\raw\\itemcompraadapter.java"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plus.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_comercio.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\comercio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_configuracion.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\layout\\dialog_configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\raw_huevo_de_pascua.mp3.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\raw\\huevo_de_pascua.mp3"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background6.jpg.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-hdpi\\background6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_productos.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\menu\\activity_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_insertar_producto.xml.flat",
+        "source": "C:\\Users\\desarrollo\\AndroidStudioProjects\\MegaAlmacen\\app\\src\\main\\res\\menu\\activity_insertar_producto.xml"
+    }
+]
